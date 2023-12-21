@@ -1,0 +1,38 @@
+.title {
+    margin: auto;
+    width: -2;
+    border: 3px;
+    padding: 10px;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 58px;
+}
+
+.image {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: -2;
+}
+
+.link {
+    text-align: center;
+    display: block;
+    color: red;
+    padding: 8px;
+    font-size: 24px;
+
+}
+
+body {
+    background-color: lightblue;
+}
+
+.button {
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 3px 3px grey;
+    padding: 8px;
+    font-size: 16px;
+}
